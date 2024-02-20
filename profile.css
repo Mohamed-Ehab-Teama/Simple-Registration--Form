@@ -1,0 +1,27 @@
+body {
+    background-image: url(emoji.jpeg);
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    border: dotted 3px rgb(33, 80, 51);
+    border-radius: 50px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+    height: 50vh;
+}
+
+.container h1 {
+    margin-bottom: 50px;
+    text-align: center;
+    color: blue;
+}
+
+.container h2 {
+    margin-bottom: 50px;
+    padding-left: 10%;
+    color: rgb(159, 227, 13);
+}
